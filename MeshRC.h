@@ -4,7 +4,7 @@
 #ifndef __MESH_RC_H__
 #define __MESH_RC_H__
 
-#include <espnow.h>
+#include <esp_now.h>
 
 namespace MeshRC {
 
